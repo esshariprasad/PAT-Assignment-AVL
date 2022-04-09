@@ -6,6 +6,8 @@ language: java
 sudo: false
 script: 
       - mvn package
+      - mvn compile
+      - mvn evosuite:generate
       - mvn test
 
 
