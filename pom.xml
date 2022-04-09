@@ -15,7 +15,6 @@
   <scope>test</scope>
 </dependency>
 
-
 <!-- https://mvnrepository.com/artifact/org.evosuite/evosuite-standalone-runtime -->
 <dependency>
     <groupId>org.evosuite</groupId>
@@ -40,7 +39,10 @@
 </build>
 
 
-
+<properties>
+  <maven.compiler.source>1.6</maven.compiler.source>
+  <maven.compiler.target>1.6</maven.compiler.target>
+</properties>
 
 
 
