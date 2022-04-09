@@ -1,13 +1,13 @@
 language: java
-# use Java 8
+
 
 
 # see https://blog.travis-ci.com/2014-12-17-faster-builds-with-container-based-infrastructure
 sudo: false
 script: 
-      - jdk_switcher use openjdk8
       - mvn package
       - mvn test
+
 
 
 
