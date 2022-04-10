@@ -9,8 +9,8 @@ sudo: false
 script: 
      
       
-      
       - mvn test
+      - mvn evosuite:info  
 
 
 
