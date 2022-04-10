@@ -61,5 +61,16 @@
                 </coverage>
             </suite>
         </generation>
+        <generation>
+            <id>1</id>
+            <failed>true</failed>
+            <modified>true</modified>
+            <timeBudgetInSeconds>120</timeBudgetInSeconds>
+            <memoryInMB>800</memoryInMB>
+            <std_err_CLIENT>/Users/esshariprasad/eclipse-workspace/PAT-Assignment-AVL/.evosuite/tmp_2022_04_09_19_29_34/logs/AVLTree/std_err_CLIENT.log</std_err_CLIENT>
+            <std_out_CLIENT>/Users/esshariprasad/eclipse-workspace/PAT-Assignment-AVL/.evosuite/tmp_2022_04_09_19_29_34/logs/AVLTree/std_out_CLIENT.log</std_out_CLIENT>
+            <std_err_MASTER>/Users/esshariprasad/eclipse-workspace/PAT-Assignment-AVL/.evosuite/tmp_2022_04_09_19_29_34/logs/AVLTree/std_err_MASTER.log</std_err_MASTER>
+            <std_out_MASTER>/Users/esshariprasad/eclipse-workspace/PAT-Assignment-AVL/.evosuite/tmp_2022_04_09_19_29_34/logs/AVLTree/std_out_MASTER.log</std_out_MASTER>
+        </generation>
     </cut>
 </Project>
